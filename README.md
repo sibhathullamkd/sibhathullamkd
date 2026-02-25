@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sibhathulla MKD</h1>
-<h3 align="center">Frontend Developer • UI Designer • Digital Creator from India</h3>
+<h3 align="center">Digital Creator • Video Editor • Front End Web Designer</h3>
 
 
 
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Personal Portfolio & Creative Projects**
+- 🔭 I’m Actively Working as  **Video Editor, Web Designer, Digital Creator**
 - 🌱 I’m currently learning **Advanced Frontend, UI/UX & Performance Optimization**
-- 💬 Ask me about **HTML, CSS, JavaScript, UI Design, Video Editing**
+- 💬 Ask me about **HTML, CSS, JavaScript, UI/UX Design, Video Editing**
 - 📫 How to reach me: **sibhathullamkd@gmail.com**
 - ⚡ Fun fact: **I love clean design & smooth animations**
 
