@@ -10,10 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m Actively Working as  **Video Editor, Web Designer, Digital Creator**
-- 🌱 I’m currently learning **Advanced Frontend, UI/UX & Performance Optimization**
-- 💬 Ask me about **HTML, CSS, JavaScript, UI/UX Design, Video Editing**
-- 📫 How to reach me: **sibhathullamkd@gmail.com**
-- ⚡ Fun fact: **I love clean design & smooth animations**
+- 💬 I'm Expert on **HTML, CSS, JavaScript, UI/UX Design, Video Editing**
+- 📫 Reach me on: **sibhathullamkd@gmail.com**
+- ⚡ Fun fact: **I love clean design & smooth animations, Editing Trending Reels**
 
 ---
 
