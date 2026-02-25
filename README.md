@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sibhathulla MKD</h1>
-<h3 align="center">Digital Creator • Video Editor • Front End Web Designer</h3>
+<h3 align="center">Digital Creator • Video Editor • Front-End Web Designer</h3>
 
 
 
